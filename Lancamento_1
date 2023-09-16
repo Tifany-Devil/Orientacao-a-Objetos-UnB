@@ -1,0 +1,29 @@
+Classe (Geometrias 2D)
+Atributos:
+- Quantidade de lados
+- Largura
+- Altura
+- Área
+
+Funções:
+- Pergunte ao usuário a quantidade de lados
+- Pergunte ao usuário a largura
+- Pergunte ao usuário a Altura
+
+Classe (Quadrado) que herda de (Geometrias 2D)
+Funções:
+- calcular: largura * largura
+- Área = largura * largura
+- printar o resultado: "A área do quadrado é: .area" 
+
+Classe (Retangulo) que herda de (Geometrias 2D)
+Funções:
+- calcular: largura * altura
+- Área = largura * altura
+- printar o resultado: "A área do retnagulo é: .Área" 
+
+Classe (Triângulo) que herda de (Geometrias 2D)
+Funções:
+- calcular: (largura * altura)/2
+- Área = (largura * altura)/2
+- printar o resultado: "A área do retnagulo é: .Área" 
