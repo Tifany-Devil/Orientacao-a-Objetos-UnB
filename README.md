@@ -1,5 +1,5 @@
 # Orientacao-a-Objetos-UnB
-Repositório destinado para os projetos realizados na disciplina Orientação a Objetos da Faculdade UnB ministrada pelo Professor Henrique Gomes deMoura 2/2023
+Repositório destinado para os projetos realizados na disciplina Orientação a Objetos da Faculdade UnB ministrada pelo Professor Henrique Gomes de Moura 2/2023
 
 Aluna: Tífany de Paula
 Matrícula: 170115038
